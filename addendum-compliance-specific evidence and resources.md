@@ -1,4 +1,4 @@
-Here is the full content for `compliance-specific evidence and resources.md`. It includes inline Markdown versions of the four recommended supporting files wherever possible:
+Here is the full content for `addendum-compliance-specific evidence and resources.md`. It includes inline Markdown versions of the four recommended supporting files wherever possible:
 
 ---
 
