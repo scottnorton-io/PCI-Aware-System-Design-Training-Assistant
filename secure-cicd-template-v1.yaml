@@ -1,0 +1,30 @@
+name: Secure CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Run Static Analysis (SAST)
+      uses: github/codeql-action/init@v2
+      with:
+        languages: javascript
+
+    - name: Run Secrets Scan
+      uses: trufflesecurity/trufflehog@v3
+
+    - name: Build Application
+      run: npm install && npm run build
+
+    - name: Deploy to Staging
+      if: github.ref == 'refs/heads/main'
+      run: ./scripts/deploy-staging.sh
+
+    - name: Notify Security Team
+      run: curl -X POST -H 'Content-type: application/json' --data '{"text":"New deployment to staging with security checks passed."}' $SLACK_WEBHOOK
