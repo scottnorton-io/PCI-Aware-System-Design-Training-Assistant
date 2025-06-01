@@ -1,7 +1,3 @@
-Here is the full content for `addendum-compliance-specific evidence and resources.md`. It includes inline Markdown versions of the four recommended supporting files wherever possible:
-
----
-
 ### 📁 `addendum-compliance-specific evidence and resources.md`
 
 **Title:** Compliance-Specific Evidence & PCI Resource Addendums
