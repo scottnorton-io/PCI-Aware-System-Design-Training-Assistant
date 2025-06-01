@@ -1,4 +1,4 @@
-### 📁 `addendum-course deliver aids.md`
+### 📁 `addendum-course delivery aids.md`
 
 **Title:** Course Delivery Aids for PCI-Aware System Design
 **Purpose:** Support instruction and student engagement by providing templates, exercises, and visualization tools aligned with PCI DSS v4.0.1.
