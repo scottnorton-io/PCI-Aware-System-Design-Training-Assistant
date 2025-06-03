@@ -158,5 +158,3 @@ Encourage written answers or callouts. Then summarize:
 > “Next time, we’ll follow the logs. We’ll look at what’s recorded, how to detect incidents, and how logging ties to accountability and incident response.”
 
 ---
-
-Would you like this script exported to PDF or paired with a live worksheet + diagram annotation guide? I can also prep slides or a whiteboard version for interactive sessions.
