@@ -1,8 +1,8 @@
-This is the **fully detailed Day 5 Instructor Script** for the **PCI-Aware System Design Training Course**, focused on **Access Control & Incident Response**.
+This is the **fully detailed Week 5 Instructor Script** for the **PCI-Aware System Design Training Course**, focused on **Access Control & Incident Response**.
 
 ---
 
-# 🎙️ **Day 5 – Instructor Script**
+# 🎙️ **Week 5 – Instructor Script**
 
 ### Theme: Role-Based Access & Incident Response Simulation
 
