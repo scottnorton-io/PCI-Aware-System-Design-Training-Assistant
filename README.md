@@ -44,8 +44,8 @@ This repo indexes all course resources with clickable summaries — ideal for in
 
 ## 🛡️ Simulations & Activities
 
-- [Red Team vs. Blue Team Scenario](./red-team-vs-blue-team-simulation.md)
-- [Interactive System Design Sandbox (Mermaid)](./system-design-sandbox.mmd)
+- [Red Team vs. Blue Team Scenario](./resources/red-team-vs-blue-team-simulation.md)
+- [Interactive System Design Sandbox (Mermaid)](./resources/system-design-sandbox.mmd)
 
 ---
 
@@ -61,4 +61,4 @@ QR code and course artifacts link: https://example.com/pci-aware-course-portfoli
 
 ---
 
-> 🧑‍🏫 This repository is intended for internal course use. For external access or licensing, contact `admin@yourdomain.com`.
+> 🧑‍🏫 This repository is intended for internal course use. For external access or licensing, contact `ides@scottnorton.io`.
