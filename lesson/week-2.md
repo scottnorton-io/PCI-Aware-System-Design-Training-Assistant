@@ -172,5 +172,3 @@ After 10–12 mins, invite groups to share 1 insight or improvement.
 > “Next session, we dig into **data storage and encryption**—we’ll talk about how to protect what attackers actually want: cardholder data.”
 
 ---
-
-Would you like this Week 2 script exported as a PDF, or bundled with slides and YAML annotations? Ready when you are!
