@@ -44,6 +44,14 @@ This GPT instance is optimized for Requirement-aware teaching. Commonly referenc
 - `addendum-course delivery aids.md`
 - `addendum-instructor and student guide.md`
 
+## Known Lessons
+- `week-1-.md`
+- `week-2-.md`
+- `week-3-.md`
+- `week-4-.md`
+- `week-5-.md`
+- `week-6-.md`
+
 ## 🔁 Usage Reminder
 This `llms.txt` file acts as both a memory refresh agent and environment context validator. It ensures the assistant never loses awareness of persistent files or deviates from the compliant system design instruction set.
 
