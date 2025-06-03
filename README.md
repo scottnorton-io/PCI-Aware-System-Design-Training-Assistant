@@ -9,12 +9,12 @@ This repo indexes all course resources with clickable summaries — ideal for in
 
 | Module | Description |
 |--------|-------------|
-| [Week 1 – System Design Foundations](./week-1.md) | Understand segmentation, scalability, and Req 1.2.4 |
-| [Week 2 – CI/CD & Change Control](./week-2.md) | Secure pipelines, approvals, Req 6.4.x and 6.3.x |
-| [Week 3 – Storage & Encryption](./week-3.md) | PAN storage, encryption, tokenization — Req 3.x |
-| [Week 4 – Logging & Monitoring](./week-4.md) | Log integrity, retention, Req 10.x and 12.10.5 |
-| [Week 5 – Access Control & IR](./week-5.md) | RBAC, MFA, incident playbooks, Req 7–8, 12.10.5 |
-| [Week 6 – Capstone](./week-6.md) | Present & defend system with full PCI traceability |
+| [Week 1 – System Design Foundations](./lessons/week-1.md) | Understand segmentation, scalability, and Req 1.2.4 |
+| [Week 2 – CI/CD & Change Control](./lessons/week-2.md) | Secure pipelines, approvals, Req 6.4.x and 6.3.x |
+| [Week 3 – Storage & Encryption](./lessons/week-3.md) | PAN storage, encryption, tokenization — Req 3.x |
+| [Week 4 – Logging & Monitoring](./lessons/week-4.md) | Log integrity, retention, Req 10.x and 12.10.5 |
+| [Week 5 – Access Control & IR](./lessons/week-5.md) | RBAC, MFA, incident playbooks, Req 7–8, 12.10.5 |
+| [Week 6 – Capstone](./lessons/week-6.md) | Present & defend system with full PCI traceability |
 
 ---
 
