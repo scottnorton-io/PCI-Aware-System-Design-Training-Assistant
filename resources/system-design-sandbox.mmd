@@ -1,0 +1,37 @@
+flowchart TD
+    subgraph Developer
+        A[Developer Workstation]
+    end
+
+    subgraph CI/CD
+        B[CI Pipeline] --> C[CD Deployment]
+    end
+
+    subgraph Frontend
+        D[Load Balancer]
+    end
+
+    subgraph Backend
+        E[App Servers] --> F[Tokenization Service]
+    end
+
+    subgraph Storage
+        G[(Encrypted Database)]
+        H[(Backup Storage)]
+    end
+
+    subgraph Security
+        I[Log Aggregator] --> J[Alert System]
+    end
+
+    A --> B --> C --> D --> E --> G
+    E --> I
+    F --> G
+    G --> H
+    I --> J
+
+    classDef pci fill:#f9f,stroke:#333,stroke-width:2px;
+    G:::pci
+    H:::pci
+    I:::pci
+    J:::pci
