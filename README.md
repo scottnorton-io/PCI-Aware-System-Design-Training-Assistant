@@ -61,4 +61,4 @@ QR code and course artifacts link: https://example.com/pci-aware-course-portfoli
 
 ---
 
-> 🧑‍🏫 This repository is intended for internal course use. For external access or licensing, contact `ides@scottnorton.io`.
+> 🧑‍🏫 This repository is intended for internal course use. For external access or licensing, contact `ideas@scottnorton.io`.
